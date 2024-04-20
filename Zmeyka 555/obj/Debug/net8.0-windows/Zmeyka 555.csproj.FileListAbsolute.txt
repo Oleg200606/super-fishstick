@@ -1,0 +1,25 @@
+C:\Users\oleg\source\repos\Zmeyka 555\Zmeyka 555\bin\Debug\net8.0-windows\Zmeyka 555.exe
+C:\Users\oleg\source\repos\Zmeyka 555\Zmeyka 555\bin\Debug\net8.0-windows\Zmeyka 555.deps.json
+C:\Users\oleg\source\repos\Zmeyka 555\Zmeyka 555\bin\Debug\net8.0-windows\Zmeyka 555.runtimeconfig.json
+C:\Users\oleg\source\repos\Zmeyka 555\Zmeyka 555\bin\Debug\net8.0-windows\Zmeyka 555.dll
+C:\Users\oleg\source\repos\Zmeyka 555\Zmeyka 555\bin\Debug\net8.0-windows\Zmeyka 555.pdb
+C:\Users\oleg\source\repos\Zmeyka 555\Zmeyka 555\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\oleg\source\repos\Zmeyka 555\Zmeyka 555\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\oleg\source\repos\Zmeyka 555\Zmeyka 555\obj\Debug\net8.0-windows\Zmeyka 555_MarkupCompile.cache
+C:\Users\oleg\source\repos\Zmeyka 555\Zmeyka 555\obj\Debug\net8.0-windows\Zmeyka 555_MarkupCompile.lref
+C:\Users\oleg\source\repos\Zmeyka 555\Zmeyka 555\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\oleg\source\repos\Zmeyka 555\Zmeyka 555\obj\Debug\net8.0-windows\Zmeyka 555.g.resources
+C:\Users\oleg\source\repos\Zmeyka 555\Zmeyka 555\obj\Debug\net8.0-windows\Zmeyka 555.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oleg\source\repos\Zmeyka 555\Zmeyka 555\obj\Debug\net8.0-windows\Zmeyka 555.AssemblyInfoInputs.cache
+C:\Users\oleg\source\repos\Zmeyka 555\Zmeyka 555\obj\Debug\net8.0-windows\Zmeyka 555.AssemblyInfo.cs
+C:\Users\oleg\source\repos\Zmeyka 555\Zmeyka 555\obj\Debug\net8.0-windows\Zmeyka 555.csproj.CoreCompileInputs.cache
+C:\Users\oleg\source\repos\Zmeyka 555\Zmeyka 555\obj\Debug\net8.0-windows\Zmeyka 555.dll
+C:\Users\oleg\source\repos\Zmeyka 555\Zmeyka 555\obj\Debug\net8.0-windows\refint\Zmeyka 555.dll
+C:\Users\oleg\source\repos\Zmeyka 555\Zmeyka 555\obj\Debug\net8.0-windows\Zmeyka 555.pdb
+C:\Users\oleg\source\repos\Zmeyka 555\Zmeyka 555\obj\Debug\net8.0-windows\Zmeyka 555.genruntimeconfig.cache
+C:\Users\oleg\source\repos\Zmeyka 555\Zmeyka 555\obj\Debug\net8.0-windows\ref\Zmeyka 555.dll
+C:\Users\oleg\source\repos\Zmeyka 555\Zmeyka 555\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\oleg\source\repos\Zmeyka 555\Zmeyka 555\bin\Debug\net8.0-windows\Prism.dll
+C:\Users\oleg\source\repos\Zmeyka 555\Zmeyka 555\bin\Debug\net8.0-windows\Prism.Wpf.dll
+C:\Users\oleg\source\repos\Zmeyka 555\Zmeyka 555\obj\Debug\net8.0-windows\Zmeyka 555.csproj.AssemblyReference.cache
+C:\Users\oleg\source\repos\Zmeyka 555\Zmeyka 555\obj\Debug\net8.0-windows\Zmeyka 555.csproj.CopyComplete
